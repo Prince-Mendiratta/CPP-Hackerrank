@@ -12,7 +12,10 @@ void display(){
 }
 
 int main(){
-	void (*fp)(); // Declaration of pointer to function
-	fp = display; // Initialization
-	(*fp)(); // Function call
+	int l = 1039;
+	int b = 3749;
+	int h = 8473;
+	unsigned long x = b*h;
+	unsigned long y = x*l;
+	cout << y;
 }
