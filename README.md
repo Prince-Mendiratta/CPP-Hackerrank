@@ -1,4 +1,4 @@
-This is a respository that stores solved Hackerrank questions for C++. I'd probably not touch this repository again once my enthusiasm for this dies :P
+This is a respository that stores solved Hackerrank questions for C++. I'd probably not touch this repository again once my enthusiasm for this dies :P OR I finish all the questions hackerrank has for C++ 😎
 
 The directories structure is of the format - 
 ```bash
